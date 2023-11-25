@@ -7,10 +7,10 @@ const Home = () => {
   return (
     <>
     <Hero />
-    <HorizontalScroller category={'Automotive'}/>
+    <HorizontalScroller category={'Jackets'}/>
     <CategoriesSection />
     <HorizontalScroller category={'Others'}/>
-    <HorizontalScroller category = {'Apparel and Fashion'}/>
+    <HorizontalScroller category = {'Deals and Discounts'}/>
     
     {/* <SearchBar /> */}
     </>

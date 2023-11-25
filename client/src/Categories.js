@@ -1,50 +1,49 @@
-import clothes from './assets/images/clothes.png';
-import beauty from './assets/images/beauty.png';
-import electronics from './assets/images/electronics.png';
-import home from './assets/images/home.png';
-import health from './assets/images/health.png';
-import sports from './assets/images/sports.png';
-import kids from './assets/images/kids.png';
-import food from './assets/images/food.png';
-import car from './assets/images/car.png';
+import womenJ from './assets/images/OIP.jpeg';
+import ManJ from './assets/images/menj.jpeg';
+import leatherbelt from './assets/images/belt1.jpg';
+import leatherwatch from './assets/images/img.jpeg';
+import leatherbag from './assets/images/bag.jpeg';
+import wallets from './assets/images/walltes.jpg';
+import gloves from './assets/images/gloves.jpg';
+import Vest from './assets/images/vest.jpg';
 import categories from './assets/images/categories.png';
-
+import glasses from './assets/images/sunglases.jpeg';
 const Categories = [
   {
-    name: "Apparel and Fashion",
-    img: clothes
+    name: "Women's Jacketx",
+    img: womenJ
   },
   {
-    name: "Beauty and Personal Care",
-    img: beauty
+    name: "Man's Jacket ",
+    img: ManJ
   },
   {
-    name: "Electronics",
-    img: electronics
+    name: "Leather Bags",
+    img: leatherbag
   },
   {
-    name: "Home and Garden",
-    img: home
+    name: "Leather belts",
+    img: leatherbelt
   },
   {
-    name: "Health and Wellness",
-    img: health
+    name: "Watch Straps",
+    img: leatherwatch
   },
   {
-    name: "Sports and Outdoors",
-    img: sports
+    name: "Wallets",
+    img: wallets
   },
   {
-    name: "Baby and Kids",
-    img: kids
+    name: "Sun glasses cases",
+    img: glasses
   },
   {
-    name: "Food and Beverages",
-    img: food
+    name: "Gloves",
+    img: gloves
   },
   {
-    name: "Automotive",
-    img: car
+    name: "Leather Vest",
+    img: Vest
   },
   {
     name: "Others",
