@@ -10,7 +10,7 @@ import categories from './assets/images/categories.png';
 import glasses from './assets/images/sunglases.jpeg';
 const Categories = [
   {
-    name: "Women's Jacketx",
+    name: "Women's Jackets",
     img: womenJ
   },
   {

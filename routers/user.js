@@ -1,5 +1,5 @@
 const express = require('express');
-const { addToWishlist, removeFromWishlist, getWishlist } = require('../controllers/wishlistController');
+const { addToWishlist, removeFromWishlist, getWishlist } = require('../controllers/wishlistController.js');
 const { addToCart, removeFromCart, getCart } = require('../controllers/cartController')
 const { getProfile, updateProfilePic, updateInfo } = require('../controllers/userController');
 const { placeOrder, getOrders ,getSingleOrder} = require('../controllers/ordersController');
