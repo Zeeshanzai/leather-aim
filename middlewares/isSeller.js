@@ -1,3 +1,4 @@
+
 const JWT = require('jsonwebtoken')
 
 const isSeller = (req, res, next) => {
